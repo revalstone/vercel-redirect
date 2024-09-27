@@ -1,0 +1,10 @@
+{
+    "redirects": [
+      {
+        "source": "/",
+        "destination": "https://2ca1-185-70-13-131.ngrok-free.app/callback",
+        "permanent": true
+      }
+    ]
+  }
+  
