@@ -2,7 +2,7 @@
     "redirects": [
       {
         "source": "/",
-        "destination": "https://efd56103f058f398d8aaeacf1c00e1a2.serveo.net/",
+        "destination": "https://cfcb-185-70-13-131.ngrok-free.app",
         "permanent": true
       }
     ]
