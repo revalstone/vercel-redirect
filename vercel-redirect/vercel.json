@@ -2,7 +2,7 @@
     "redirects": [
       {
         "source": "/",
-        "destination": "https://2ca1-185-70-13-131.ngrok-free.app/callback",
+        "destination": "https://efd56103f058f398d8aaeacf1c00e1a2.serveo.net/",
         "permanent": true
       }
     ]
